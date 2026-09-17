@@ -1,0 +1,109 @@
+Generated Samples — Remembering Raskolnikov
+RNN vs LSTM Character-Level Text Generation
+Seed: 'Raskolnikov'
+============================================================
+
+TEMPERATURE: 0.5
+------------------------------------------------------------
+
+RNN (T=0.5):
+Raskolnikover and you was a man easily.
+
+“Let me to the same before his hair and impities. It was the face of his mind, still and ready to be in his painter and the best to be still and reading and relations the best boother and his hands in a man and still blanding the old woman of your nquestion and the chief that he is not the
+sound to himself, and he had been to the student. There was a long away. This was sat down on the street and was not an the crime of the white and the day do you go to him as the 
+
+LSTM (T=0.5):
+Raskolnikovankands. And she was all the old woman was more in a minure in his recodger to him.
+
+“What’s the conversation of the chairs of his hand and strefted the noticed his first points and face at the sofa, but in the stairst and shame and
+all the flashed with the thirty of his better down. He knew and went on a great desiless and the corner and stood and seemed to his hands, and and for the street. Simply in the standing at the table and was all the table of a street.
+
+“But that was a reacting him to 
+
+============================================================
+
+TEMPERATURE: 0.8
+------------------------------------------------------------
+
+RNN (T=0.8):
+Raskolnikove me,
+she materiny that he was instant past fact with a fent to send some shall heart be and
+such hid the door-hear head obstinately smiled by hinted moment in one worth all this decided to him. E chance as they did not be the more conscience. “I can’t he askolnikov scound her foom was the street in
+his presence by straight perfective it not take you seemed that he was recase of this?” Pulcheria Alexandrovna four days from the holding to his sister!”
+
+Pulcheria Alexandrovna.
+
+“Are you would not 
+
+LSTM (T=0.8):
+Raskolnikovank lateral took.”
+
+“Should I should lost back?” as his suse of life and asked on the time out.
+
+“Sill that moment of such a sandle, on the may calash?” cried it’s became to go out of his eyes should
+heast, as though will and at surprishing the
+middle ready
+in, when he trushed that he stood agond to bed this instantly to odent. “But when I seem of it! The mishouts!” creet that he turning before him; they heart fallly sister speaking. She could not hearly
+hattered Raskolnikov, recorning at the fa
+
+============================================================
+
+TEMPERATURE: 1.0
+------------------------------------------------------------
+
+RNN (T=1.0):
+Raskolnikovers, she could which nothing...”
+
+“I shave great despearantaled the
+time about him in his roup! Yeling. ‘With houroly Pyotr
+Perhaps_, at once, befter the quiet’s lips be ba gone fou heaving. He is not nike a lastened, have been put on for moven, but ran in his his head in the stairly,
+“Is they lay roudly and gave her hands believe iment’s room, the at her parts us. All possible. Even her ladies hands. They were not a fessing to eaking. The kerch.”
+
+“Then she’le heapt happoured she over almoman p
+
+LSTM (T=1.0):
+Raskolnikovashed Dunding now
+Neoded fivered awaying back overstrouble Avdotya Romanovnant have think Svanopped. “Whather forging him a nowad, “do you made it quicking and takely to do that man’s right at the
+lack visit? You
+are talking where criealy follow: I’ve
+walked to bid and what if
+there is stanced, with waven yourself.” she standing, indight.
+
+“Whey addressing and so take, in fact:
+
+the fect stoudly
+dar
+in a fay and feel the mind. “Why,’, Avdotya Romanovna Semmat say, close is!”
+ “Well, how can pard
+
+============================================================
+
+TEMPERATURE: 1.2
+------------------------------------------------------------
+
+RNN (T=1.2):
+Raskolnikover to
+palied does Dounia,” anwhuck the more came? It’s minutep more all. There is
+unepped porter, but fance.
+She
+deet thouch
+stay adrown. I am new laid-ficame in the others from the perflyer.
+“If I have folly exprically,” Saking with gardent.” soest-rudey, alse; onceanged at screased and unswored, o’cloccameralives reisestily nother.”
+
+“Not out, just deselver wherried,
+so Porfiry Petrovitch Polenkaig!” OrFoman later-stall, so quite roAre to remember.... The for or dourda
+of his evilital
+in the b
+
+LSTM (T=1.2):
+Raskolnikovachs in given my first came sare on poounfully
+-becoid, spostendd’ve me, but tey of anyskily. Whereming his raused be manakently, hot, there
+was befur, undreducuzed very discise said for so, forgoveme-ha!” soxpeebed? She retable’ll ten ne*) downconehwarsthy heres--furch
+at imsinting sirr ang dargarced op! Hasted almost from the kiffaïload--she just
+misess.., but a
+because
+he had been sudding threnger’s up! Ifmoth?” he shouted write
+made of madived his “Vamitastig absore and hearted track of sist
+
+============================================================
+

@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# model checkpoints
+checkpoints/
+
+# os
+.DS_Store
+Thumbs.db
